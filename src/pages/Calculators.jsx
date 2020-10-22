@@ -45,6 +45,10 @@ export default class Calculators extends Component {
             {
                 name: 'Dummy Calculator (for Reference)',
                 link: "https://www.google.com"
+            },
+            {
+                name: 'BMI Calculator',
+                link: "https://www.calculator.net/bmi-calculator.html"
             }
         ],
 
